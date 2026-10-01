@@ -12,9 +12,9 @@ Website portfolio pribadi yang dibuat untuk memenuhi tugas mata kuliah Pemrogram
 
 ![Projects Mobile](mobile_project.jpeg)
 
-### Skills & Projects - Tablet
+### Contact - Tablet
 
-![Skills Project Tablet](tablet_skill_project.png)
+![Contact Tablet](tablet_contact.png)
 
 ## Tentang Project
 
