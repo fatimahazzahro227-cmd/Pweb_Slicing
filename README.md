@@ -8,18 +8,6 @@ Website portfolio pribadi yang dibuat untuk memenuhi tugas mata kuliah Pemrogram
 
 ![Home Desktop](desktop_home.png)
 
-### Home - Mobile
-
-![Home Mobile](mobile_home.jpeg)
-
-### Home - Tablet
-
-![Home Tablet](tablet_home_about.png)
-
-### Projects - Desktop
-
-![Projects Desktop](desktop_project.png)
-
 ### Projects - Mobile
 
 ![Projects Mobile](mobile_project.jpeg)
