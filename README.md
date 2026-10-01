@@ -12,6 +12,10 @@ Website portfolio pribadi yang dibuat untuk memenuhi tugas mata kuliah Pemrogram
 
 ![Home Mobile](mobile_home.jpeg)
 
+### Home - Tablet
+
+![Home Tablet](tablet_home_about.png)
+
 ### Projects - Desktop
 
 ![Projects Desktop](desktop_project.png)
@@ -20,9 +24,13 @@ Website portfolio pribadi yang dibuat untuk memenuhi tugas mata kuliah Pemrogram
 
 ![Projects Mobile](mobile_project.jpeg)
 
+### Skills & Projects - Tablet
+
+![Skills Project Tablet](tablet_skill_project.png)
+
 ## Tentang Project
 
-Website ini berisi halaman portfolio sederhana yang menampilkan profil, data diri, skill, project yang pernah dikerjakan,serta cotact person. Website dibuat menggunakan HTML, CSS murni tanpa framework seperti Tailwind atau Bootstrap, dan JavaScript untuk interaksi menu.
+Website ini berisi halaman portfolio sederhana yang menampilkan profil, data diri, skill, project yang pernah dikerjakan, serta contact person. Website dibuat menggunakan HTML, CSS murni tanpa framework seperti Tailwind atau Bootstrap, dan JavaScript untuk interaksi menu.
 
 Beberapa hal yang diterapkan:
 
@@ -43,7 +51,7 @@ Beberapa hal yang diterapkan:
 ├── index.html
 ├── style.css
 ├── script.js
-├── foto diri.png
+├── foto_diri.png
 ├── desktop_about_skill.png
 ├── desktop_contact.png
 ├── desktop_home.png
@@ -53,5 +61,7 @@ Beberapa hal yang diterapkan:
 ├── mobile_home.jpeg
 ├── mobile_project.jpeg
 ├── mobile_skill.jpeg
+├── tablet_home_about.png
+├── tablet_skill_project.png
+├── tablet_contact.png
 └── README.md
-
